@@ -36,10 +36,6 @@ My first album as a multi-media, multimodal, and multi-model artist, navigating 
 “Meta-fictions: A Fugue Entangled with Several Odd Kins and Intelligences” is the outcome of a collaboration between artists Dakota Comin, Cesar Rene Perez, and Vera Rivas, developed during a residency at Lake Studios Berlin in November 2023. This project marries the realms of generative AI, realtime computation with dance and performance art.
 [Discover meta-fictions](https://medium.com/@marlon_21867/meta-fictions-project-description-6bad0678373e)
 
-### Duets in Latent Spaces
-Investigates the choreographic potentials between humans and AI, creating a dance of mutual influence and evolution.
-[Read about Duets in Latent Spaces](https://github.com/marlonbarrios/duets-in-latent-space)
-
 ### Chat With Them: Infinite Conversations within my Epistemic Vortex
 Chat With Them: Infinite Conversations within my Epistemic Vortex” assembles a vast network of open-source, multilingual chatbots. Each chatbot is meticulously engineered to represent a significant thinker or historical figure, selected for their influential contributions to ethical and epistemic discourse. 
 [Read about the project](https://marlonbarrios.github.io/chatwiththem/)
@@ -51,6 +47,11 @@ A recursive tribute to Alan Turing, focusing on AI's interpretative and memory c
 ### Sati-AI 
 Sati-AI is a multi-lingual AI-powered buddhist wisdom guide and mindfulness meditation coach that incorporates interdisciplinary connections with contemporary knowledge, such as embodied cognition and enactivism, trauma-informed approaches, and art. It primarily draws from the Theravada tradition of early Buddhism to help you cultivate mindfulness and wisdom within complex cultural histories.
 [Allow Sati-AI to guide you](https://www.sati-ai.app/)
+
+### Duets in Latent Spaces
+Investigates the choreographic potentials between humans and AI, creating a dance of mutual influence and evolution.
+[Read about Duets in Latent Spaces](https://github.com/marlonbarrios/duets-in-latent-space)
+
 
 ### [Video playlist with theory and artist perspectives about Gen AI, ML and arts](https://youtu.be/K2TSx7lyzaE?si=pcRyeGDLR52iubQp)
 

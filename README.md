@@ -1,12 +1,13 @@
-# Artist Talk
+# Artist Talk | Marlon Barrios Solano
 # Entangled with Imagination Engines
 
 ![Screenshot 2024-04-22 at 12 19 38 PM](https://github.com/marlonbarrios/entalglesinimaginationengines/assets/90220317/c2037524-e2e5-4d03-bd0e-45c1b18df3d5)
 
 Welcome to the companion webpage for my artist lecture, **"Entangled with Imagination Engines."** This page serves as a resource hub, providing deeper insights into the integration of generative AI with interactive media in my artistic practice.
 
-## Projects Overview
+##  Overview
 Each project listed below showcases a unique exploration of generative AI and interactive media, probing and portraying the complex interplay between human and digital cognition.
+Realtime | Complexity | 
 
 ### unstablelandscapes | visualization in p5.js of my art-research.
 [Visit app | press c, l and t and move the slider](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
@@ -37,7 +38,7 @@ My first album as a multi-media, multimodal, and multi-model artist, navigating 
 
 ### Duets in Latent Spaces
 Investigates the choreographic potentials between humans and AI, creating a dance of mutual influence and evolution.
-[Read about Duets in Latent Spaces](https://medium.com/@marlon_21867/duets-in-latent-spaces-53bcfe49f2db)
+[Read about Duets in Latent Spaces](https://github.com/marlonbarrios/duets-in-latent-space)
 
 ### Chat With Them: Infinite Conversations within my Epistemic Vortex
 Chat With Them: Infinite Conversations within my Epistemic Vortex” assembles a vast network of open-source, multilingual chatbots. Each chatbot is meticulously engineered to represent a significant thinker or historical figure, selected for their influential contributions to ethical and epistemic discourse. 

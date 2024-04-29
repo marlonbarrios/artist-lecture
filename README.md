@@ -3,7 +3,7 @@
 
 ![Screenshot 2024-04-22 at 12 19 38 PM](https://github.com/marlonbarrios/entalglesinimaginationengines/assets/90220317/c2037524-e2e5-4d03-bd0e-45c1b18df3d5)
 
-Welcome to the companion webpage for my artist lecture, **"Entangled with Imagination Engines."** This page serves as a resource hub, providing deeper insights into the integration of generative AI with interactive media in my artistic practice.
+Welcome to the companion webpage for my artist lecture, **"Entangled with Speculative Engines."** This page serves as a resource hub, providing deeper insights into the integration of generative AI with interactive media in my artistic practice.
 
 ##  Overview
 Each project listed below showcases a unique exploration of generative AI and interactive media, probing and portraying the complex interplay between human and digital cognition.
@@ -16,19 +16,15 @@ Realtime | Complexity |
 Watch a play list of videos as doumentation and as pieces in themselves.
 [Watch on YouTube](https://www.youtube.com/playlist?list=PLC2ijZ2U-avgiulwpSlCbvM2FAbUBtwlz)
 
-### Dance-tech.net and movimiento.org How like a network: Knwledge production
+### Dance-tech.net and movimiento.org How like a network: Knowledge production (Included in video Playlists)
 
 ### meta-fictions
 “Meta-fictions: A Fugue Entangled with Several Odd Kins and Intelligences” is the outcome of a collaboration between artists Dakota Comin, Cesar Rene Perez, and Vera Rivas, developed during a residency at Lake Studios Berlin in November 2023. This project marries the realms of generative AI, realtime computation with dance and performance art.
 [Discover meta-fictions](https://medium.com/@marlon_21867/meta-fictions-project-description-6bad0678373e)
 
-### Proteans
-An exploration into fluid identities through generative AI.
-[Read more about Proteans](https://medium.com/@marlon_21867/proteans-unbound-collection-6dbf51da1650)
+### Proteans 
+### Faciality
 
-### Faciality Monologues
-This project delves into facial recognition technology and its impact on personal narratives.
-[Explore Faciality Monologues](https://medium.com/@marlon_21867/faciality-monologues-a7b741a82aff)
 
 ### In Pursuit of Stolen Ghosts
 A digital journey through memory and identity reconstruction using AI.
@@ -60,13 +56,13 @@ Investigates the choreographic potentials between humans and AI, creating a danc
 
 ### more about my work in [Medium](https://medium.com/@marlon_21867)
 
-
 ## Contact
 For further inquiries or discussions about potential collaborations, please feel free to contact me.
 
 ### [My linkthree](https://linktr.ee/marlonbarriososolano)
 
-## Present synergies:
+
+## Present and futute synergies:
 
 ### Colectivo Metaficciones
 

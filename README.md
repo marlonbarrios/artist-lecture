@@ -21,10 +21,12 @@ Watch a play list of videos as doumentation and as pieces in themselves.
 [Discover meta-fictions](https://medium.com/@marlon_21867/meta-fictions-project-description-6bad0678373e)
 
 ### Duets in Latent Spaces
+Lecture Performance
+
 Investigates the choreographic potentials between humans and AI, creating a dance of mutual influence and evolution.
 [Read about Duets in Latent Spaces](https://github.com/marlonbarrios/duets-in-latent-space)
 
-### NODES:
+### I will perform with 4 of the following apps:
 
 ### Hyper-elements in Latent Space
 - **Model:** Stable Diffusion XL

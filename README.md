@@ -16,15 +16,15 @@ Realtime | Complexity |
 Watch a play list of videos as doumentation and as pieces in themselves.
 [Watch on YouTube](https://www.youtube.com/playlist?list=PLC2ijZ2U-avgiulwpSlCbvM2FAbUBtwlz)
 
-### Dance-tech.net and movimiento.org How like a network: Knowledge production (Included in video Playlists)
-
 ### meta-fictions
 “Meta-fictions: A Fugue Entangled with Several Odd Kins and Intelligences” is the outcome of a collaboration between artists Dakota Comin, Cesar Rene Perez, and Vera Rivas, developed during a residency at Lake Studios Berlin in November 2023. This project marries the realms of generative AI, realtime computation with dance and performance art.
 [Discover meta-fictions](https://medium.com/@marlon_21867/meta-fictions-project-description-6bad0678373e)
 
-### Proteans 
-### Faciality
+### Duets in Latent Spaces
+Investigates the choreographic potentials between humans and AI, creating a dance of mutual influence and evolution.
+[Read about Duets in Latent Spaces](https://github.com/marlonbarrios/duets-in-latent-space)
 
+**++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ### In Pursuit of Stolen Ghosts
 A digital journey through memory and identity reconstruction using AI.
@@ -47,19 +47,7 @@ A recursive tribute to Alan Turing, focusing on AI's interpretative and memory c
 Sati-AI is a multi-lingual AI-powered buddhist wisdom guide and mindfulness meditation coach that incorporates interdisciplinary connections with contemporary knowledge, such as embodied cognition and enactivism, trauma-informed approaches, and art. It primarily draws from the Theravada tradition of early Buddhism to help you cultivate mindfulness and wisdom within complex cultural histories.
 [Allow Sati-AI to guide you](https://www.sati-ai.app/)
 
-### Duets in Latent Spaces
-Investigates the choreographic potentials between humans and AI, creating a dance of mutual influence and evolution.
-[Read about Duets in Latent Spaces](https://github.com/marlonbarrios/duets-in-latent-space)
 
-
-### [Video playlist with theory and artist perspectives about Gen AI, ML and arts](https://youtu.be/K2TSx7lyzaE?si=pcRyeGDLR52iubQp)
-
-### more about my work in [Medium](https://medium.com/@marlon_21867)
-
-## Contact
-For further inquiries or discussions about potential collaborations, please feel free to contact me.
-
-### [My linkthree](https://linktr.ee/marlonbarriososolano)
 
 
 ## Present and futute synergies:
@@ -89,6 +77,18 @@ The Alien Club was formed as a direct result of this workshop's collaborative an
 
 
 ### Curatorial leader of dance-tech.net and movimiento.orgin transition stage.
+
+
+### [Video playlist with theory and artist perspectives about Gen AI, ML and arts](https://youtu.be/K2TSx7lyzaE?si=pcRyeGDLR52iubQp)
+
+### more about my work in [Medium](https://medium.com/@marlon_21867)
+
+## Contact
+For further inquiries or discussions about potential collaborations, please feel free to contact me.
+
+### [My linkthree](https://linktr.ee/marlonbarriososolano)
+
+
 
 
 

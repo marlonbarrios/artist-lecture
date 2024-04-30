@@ -16,8 +16,8 @@ Realtime | Complexity |
 Watch a play list of videos as doumentation and as pieces in themselves.
 [Watch on YouTube](https://www.youtube.com/playlist?list=PLC2ijZ2U-avgiulwpSlCbvM2FAbUBtwlz)
 
-### meta-fictions
-“Meta-fictions: A Fugue Entangled with Several Odd Kins and Intelligences” is the outcome of a collaboration between artists Dakota Comin, Cesar Rene Perez, and Vera Rivas, developed during a residency at Lake Studios Berlin in November 2023. This project marries the realms of generative AI, realtime computation with dance and performance art.
+### meta-ficciones
+“Meta-fictions: A Fugue Entangled with Several Odd Kins and Intelligences” is the outcome of a collaboration between artists Dakota Comin, Cesar Rene Perez, and Vera Rivas, developed during a residency at Lake Studios Berlin in November 2023. This project marries the realms of generative AI, realtime computation with dance and performance art. Residency  and collaboration with the Cnetro de Cultura Digital in Mexico City for the Fall 2024.
 [Discover meta-fictions](https://medium.com/@marlon_21867/meta-fictions-project-description-6bad0678373e)
 
 ### Duets in Latent Spaces

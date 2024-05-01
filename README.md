@@ -100,7 +100,7 @@ Investigates the choreographic potentials between humans and AI, creating a danc
 - [LIVE APP](https://marlonbarrios.github.io/the_body_of_the_text/)
 
 
-More projects that were not included in the presentation:
+## More projects that were not included in the presentation:
 
 ### In Pursuit of Stolen Ghosts 
 A digital journey through memory and identity reconstruction using AI.

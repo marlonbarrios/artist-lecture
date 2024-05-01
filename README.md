@@ -100,18 +100,15 @@ Investigates the choreographic potentials between humans and AI, creating a danc
 - [LIVE APP](https://marlonbarrios.github.io/the_body_of_the_text/)
 
 
+More projects that were not included in the presentation:
 
-
-**++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-### In Pursuit of Stolen Ghosts
+### In Pursuit of Stolen Ghosts 
 A digital journey through memory and identity reconstruction using AI.
 [Visit In Pursuit of Stolen Ghosts](https://inpursuitoftolenghosts.vercel.app/)
 
 ### Digressions in Latent Space
 My first album as a multi-media, multimodal, and multi-model artist, navigating through AI-generated auditory and visual landscapes.
 [Discover Digressions in Latent Space](https://medium.com/@marlon_21867/digressions-in-latent-space-b11dd9ba46c8)
-
 
 ### Chat With Them: Infinite Conversations within my Epistemic Vortex
 Chat With Them: Infinite Conversations within my Epistemic Vortex” assembles a vast network of open-source, multilingual chatbots. Each chatbot is meticulously engineered to represent a significant thinker or historical figure, selected for their influential contributions to ethical and epistemic discourse. 
@@ -125,6 +122,19 @@ A recursive tribute to Alan Turing, focusing on AI's interpretative and memory c
 Sati-AI is a multi-lingual AI-powered buddhist wisdom guide and mindfulness meditation coach that incorporates interdisciplinary connections with contemporary knowledge, such as embodied cognition and enactivism, trauma-informed approaches, and art. It primarily draws from the Theravada tradition of early Buddhism to help you cultivate mindfulness and wisdom within complex cultural histories.
 [Allow Sati-AI to guide you](https://www.sati-ai.app/)
 
+
+### Proteans
+An exploration into fluid identities through generative AI.
+[Read more about Proteans](https://medium.com/@marlon_21867/proteans-unbound-collection-6dbf51da1650)
+
+### Faciality Monologues
+This project delves into facial recognition technology and its impact on personal narratives.
+[Explore Faciality Monologues](https://medium.com/@marlon_21867/faciality-monologues-a7b741a82aff)
+
+
+### meta-fictions
+“Meta-fictions: A Fugue Entangled with Several Odd Kins and Intelligences” is the outcome of a collaboration between artists Dakota Comin, Cesar Rene Perez, and Vera Rivas, developed during a residency at Lake Studios Berlin in November 2023. This project marries the realms of generative AI, realtime computation with dance and performance art.
+[Discover meta-fictions](https://medium.com/@marlon_21867/meta-fictions-project-description-6bad0678373e)
 
 
 

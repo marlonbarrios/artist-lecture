@@ -132,12 +132,6 @@ This project delves into facial recognition technology and its impact on persona
 [Explore Faciality Monologues](https://medium.com/@marlon_21867/faciality-monologues-a7b741a82aff)
 
 
-### meta-fictions
-“Meta-fictions: A Fugue Entangled with Several Odd Kins and Intelligences” is the outcome of a collaboration between artists Dakota Comin, Cesar Rene Perez, and Vera Rivas, developed during a residency at Lake Studios Berlin in November 2023. This project marries the realms of generative AI, realtime computation with dance and performance art.
-[Discover meta-fictions](https://medium.com/@marlon_21867/meta-fictions-project-description-6bad0678373e)
-
-
-
 ## Present and futute synergies:
 
 ### Colectivo Metaficciones
@@ -146,15 +140,19 @@ The Metafictions Collective initially rooted in Lake Studios Berlin but now func
 This collective is composed of artists from diverse backgrounds, including Mexico, Spain, the U.S. (Venezuelan-American based in Berlin), and El Salvador (living in France). These artists not only bring a range of cultural insights but also critically engage with the tensions between global north and south perspectives. This tension enriches their artistic exploration, highlighting issues of power, cultural exchange, and the impacts of colonial histories on artistic expression.
 Their innovative approach challenges and redefines traditional narratives within the arts, fostering a dynamic dialogue that bridges disparate geographies and ideologies. Through their work, they reflect on the influence of the global north in shaping artistic and cultural norms, pushing the boundaries of how art interacts with and critiques societal structures through the advanced use of AI technologies. Residency en el Centro de Cultura Digital, Mexicoand summit with Red Iberoamericana de Danza  in Fall 2024.
 
+[Discover meta-fictions](https://medium.com/@marlon_21867/meta-fictions-project-description-6bad0678373e)
+
 
 ### Artist-in-residence Rewilding Cultures, Croatia
 
 As an artist-in-residence with the Rewilding Cultures program at Radiona in Zagreb, Croatia, I am facilitating the Electric Wonderland 2024 – an international maker/hacker camp and A-I-R set to occur at Kamp Velebit in Baške Oštarije, Velebit Mountains from July 22 to July 28, 2024. This initiative, funded by Creative Europe of the European Union, focuses on exploring innovative approaches to production, inclusivity, and environmental considerations at the intersection of the arts, science, and technology. The Rewilding Cultures (RC) project aims to reflect the evolving landscape of artistic research and production, fostering new perspectives on various aspects of artistic and creative processes, including research, production, presentation, and dissemination. It highlights the importance of responsible participation, particularly in environmental sustainability and vital inclusion matters that cannot be overlooked.In my role, I will facilitate "Metabolic Moments" utilizing contemplative practices such as mindfulness (SATI) meditation and contemplative movement practice. These sessions are designed to articulate moments of reflection and awareness of the notions of generativity and regeneration concerning the concepts of nature and the artificial, emphasizing their relevance for both present and future contexts.
+[More information](https://radiona.org/rewilding-culture-artist-in-residence-radiona-marlon-barrios-solano/)
 
 
 ### AI+ART+LAB Platform (initial stages)
 
 An online laboratory dedicated to the exploration, production, presentation, and dissemination in the field of computational creativity, AI, and machine learning. This platform offers courses, roundtables, and think tanks, all from an artist-centric perspective. It features open-source tools, models, and datasets focused on sustainability, inclusion, and addressing biases. Utilizing collaborative tools and approaches, the lab emphasizes decentralization and congestion. Collaborations include Hugging Face (France), Harvestworks (USA), Radiona (Zagreb), Alias by Aliens, Centro de Cultura Digital (Mexico City), Platohedro (Colombia), and Lake Studios Berlin/movimiento.org (Germany).
+
 
 
 ### Alien Club
@@ -164,7 +162,8 @@ The Alien Club was formed as a direct result of this workshop's collaborative an
 
 
 
-### Curatorial leader of dance-tech.net and movimiento.orgin transition stage.
+### [Curatorial leader of dance-tech.net and movimiento.orgin transition stage.](https://dance-tech.net/)
+
 
 
 ### [Video playlist with theory and artist perspectives about Gen AI, ML and arts](https://youtu.be/K2TSx7lyzaE?si=pcRyeGDLR52iubQp)

@@ -162,7 +162,7 @@ The Alien Club was formed as a direct result of this workshop's collaborative an
 
 
 
-### [Curatorial leader of dance-tech.net and movimiento.orgin transition stage.](https://dance-tech.net/)
+### [Curatorial leader of dance-tech.net and movimiento.org in transition stage.](https://dance-tech.net/)
 
 
 

@@ -9,7 +9,7 @@ Welcome to the companion webpage for my artist lecture, **"Entangled with Specul
 Each project listed below showcases a unique exploration of generative AI and interactive media, probing and portraying the complex interplay between human and digital cognition.
 Realtime | Complexity | 
 
-# this is [Marlon-AI](https://hf.co/chat/assistant/662aa5f576d6b68076d674ef) a chatbot trained and with access to all Marlon's relevant information as a reseracger and artist.
+## This is [Marlon-AI](https://hf.co/chat/assistant/662aa5f576d6b68076d674ef) a chatbot trained and with access to all Marlon's relevant information as a reseracger and artist.
 
 ### unstablelandscapes | visualization in p5.js of my art-research.
 [Visit app | press c, l and t and move the slider](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)

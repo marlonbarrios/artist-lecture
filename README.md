@@ -164,7 +164,7 @@ The Alien Club was formed as a direct result of this workshop's collaborative an
 
 
 
-### [Curatorial leader of dance-tech.net and movimiento.org in transition stage.](https://dance-tech.net/)
+### [Curatorial leader of dance-tech.net and movimiento.org in transition stage.](https://dance-tech.net/) and advancing towards the use of descentralized protocols for socialmedia in Web3 such as [Farcaster](https://docs.farcaster.xyz/)
 
 
 

@@ -145,6 +145,13 @@ Their innovative approach challenges and redefines traditional narratives within
 [Discover meta-fictions](https://medium.com/@marlon_21867/meta-fictions-project-description-6bad0678373e)
 
 
+### Convessations with Possible Minds| Consious Exotica
+ 
+A series of short conversations with LLMs exploring the movements of cognition: dialogue, reasoning, creativity, meta-cognition and behavioral self awareness.
+
+[Discover meta-fictions](https://www.instagram.com/p/C77Z7zNJenL/)\
+
+
 ### Artist-in-residence Rewilding Cultures, Croatia
 
 As an artist-in-residence with the Rewilding Cultures program at Radiona in Zagreb, Croatia, I am facilitating the Electric Wonderland 2024 – an international maker/hacker camp and A-I-R set to occur at Kamp Velebit in Baške Oštarije, Velebit Mountains from July 22 to July 28, 2024. This initiative, funded by Creative Europe of the European Union, focuses on exploring innovative approaches to production, inclusivity, and environmental considerations at the intersection of the arts, science, and technology. The Rewilding Cultures (RC) project aims to reflect the evolving landscape of artistic research and production, fostering new perspectives on various aspects of artistic and creative processes, including research, production, presentation, and dissemination. It highlights the importance of responsible participation, particularly in environmental sustainability and vital inclusion matters that cannot be overlooked.In my role, I will facilitate "Metabolic Moments" utilizing contemplative practices such as mindfulness (SATI) meditation and contemplative movement practice. These sessions are designed to articulate moments of reflection and awareness of the notions of generativity and regeneration concerning the concepts of nature and the artificial, emphasizing their relevance for both present and future contexts.

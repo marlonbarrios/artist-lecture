@@ -1,5 +1,5 @@
 # Artist Talk | Marlon Barrios Solano
-# Entangled with Speculative Engines
+# Entangled with Possible Minds
 
 ![Screenshot 2024-04-22 at 12 19 38 PM](https://github.com/marlonbarrios/entalglesinimaginationengines/assets/90220317/c2037524-e2e5-4d03-bd0e-45c1b18df3d5)
 

@@ -3,13 +3,13 @@
 
 ![Screenshot 2024-04-22 at 12 19 38 PM](https://github.com/marlonbarrios/entalglesinimaginationengines/assets/90220317/c2037524-e2e5-4d03-bd0e-45c1b18df3d5)
 
-Welcome to the companion webpage for my artist lecture, **"Entangled with Speculative Engines."** This page serves as a resource hub, providing deeper insights into the integration of generative AI with interactive media in my artistic practice.
+Welcome to the companion webpage for my artist lecture, **" Entangled with Possible Minds"** This page serves as a resource hub, providing deeper insights into the integration of generative AI with interactive media in my artistic practice.
 
 ##  Overview
 Each project listed below showcases a unique exploration of generative AI and interactive media, probing and portraying the complex interplay between human and digital cognition.
 Realtime | Complexity | 
 
-## This is [Marlon-AI](https://hf.co/chat/assistant/662aa5f576d6b68076d674ef) a chatbot trained and with access to all Marlon's relevant information as a reseracger and artist.
+## This is [Marlon-AI](https://hf.co/chat/assistant/662aa5f576d6b68076d674ef) a chatbot trained and with access to all Marlon's relevant information as a researcher and artist.
 
 ### unstablelandscapes | visualization in p5.js of my art-research.
 [Visit app | press c, l and t and move the slider](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
